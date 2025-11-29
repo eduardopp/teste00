@@ -8,6 +8,8 @@
 #EXTINF:-1 group-title="TV" tvg-id="M6" tvg-logo="https://i.imgur.com/7GVp3fW.png",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 
-
 #EXTINF:-1 group-title="TV" tvg-id="TV5" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Ftv5-monde-20211549.logowik.com.webp&f=1&nofb=1&ipt=001b3740d60aa138da19e42c8ed2e24ed56b468bf24be0f371611cc1640a3914" tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD",TV5Monde
 https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TF1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Ftf1-logo.png&f=1&nofb=1&ipt=18397e5463f7acbda6fcd8dc521f51297b060cdd3ca1f93f122cfcb464094bed" tvg-id="TF1",TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
