@@ -12,4 +12,4 @@ http://99.27.51.147:8080/M6/index.m3u8
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TF1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Ftf1-logo.png&f=1&nofb=1&ipt=18397e5463f7acbda6fcd8dc521f51297b060cdd3ca1f93f122cfcb464094bed" tvg-id="TF1",TF1
-http://str2.iptvhd.ru:8080/TF1/index.m3u8
+http://151.80.18.177:86/TF1_HD/index.m3u8
