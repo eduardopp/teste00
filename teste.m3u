@@ -17,3 +17,7 @@ https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/tv5_monde_fbs/live.livx/pla
 #EXTINF:-1 group-title="TV" tvg-id="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/500px-Logo_TF1_2013.svg.png" tvg-id="TF1",TF1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4CJIDKQ.png" tvg-name="TF1 Series Films (1080p)" group-title="Movies",TF1 Series Films (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
+
